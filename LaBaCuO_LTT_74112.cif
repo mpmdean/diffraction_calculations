@@ -1,0 +1,86 @@
+#(C) 2010 by Fachinformationszentrum Karlsruhe. All rights reserved.
+data_74112-ICSD
+_database_code_ICSD 74112
+_audit_creation_date 1995-01-10
+_chemical_name_systematic 'Lanthanum barium copper oxide (1.88/0.12/1/4)'
+_chemical_formula_structural '(La1.875 Ba0.125) Cu O4'
+_chemical_formula_sum 'Ba0.125 Cu1 La1.875 O4'
+_chemical_name_structure_type La2NiO4
+_exptl_crystal_density_diffrn 7.11
+_cell_measurement_temperature 15.
+_cell_measurement_pressure 101.325
+#Default value included by FIZ Karlsruhe
+_publ_section_title
+'Crystal structure and superconductivity of La2-xBaxCuO4 (0.03 < x < 0.24)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physica C (Amsterdam)' 1993 214 64 72 PHYCE6
+loop_
+_publ_author_name
+'Katano, S.'
+'Fernandez-Baca, J.A.'
+'Funahashi, S.'
+'Mori, N.'
+'Ueda, Y.'
+'Koga, K.'
+_cell_length_a 5.34837(9)
+_cell_length_b 5.34837(9)
+_cell_length_c 13.2352(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 378.59
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 42/n c m Z'
+_symmetry_Int_Tables_number 138
+_refine_ls_R_factor_all 0.077
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z'
+2 'y+1/2, -x, -z+1/2'
+3 '-y, x+1/2, -z+1/2'
+4 '-y, -x, -z'
+5 'x+1/2, y+1/2, -z'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y, -z+1/2'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 '-y+1/2, x, z+1/2'
+11 'y, -x+1/2, z+1/2'
+12 'y, x, z'
+13 '-x+1/2, -y+1/2, z'
+14 'x, -y+1/2, z+1/2'
+15 '-x+1/2, y, z+1/2'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Ba2+ 2
+Cu2+ 2.13
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 8 i 0.0053(4) 0.0053(4) 0.36059(12) 0.25(2) 0.9375 0
+Ba1 Ba2+ 8 i 0.0053(4) 0.0053(4) 0.36059(12) 0.25(2) 0.0625 0
+Cu1 Cu2+ 4 d 0 0 0 0.18(3) 1. 0
+O1 O2- 4 e 0.25 0.25 0.0074(5) 0.28(3) 1. 0
+O2 O2- 4 a 0.75 0.25 0 0.50(2) 1. 0
+O3 O2- 8 i -.0163(6) -.0163(6) 0.1821(2) 0.99(7) 1. 0
+#End of data_74112-ICSD
